@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Bonussalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Comparesumofnaturalnumebers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Counterdecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/DecrementCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Factorialusngfor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/IsSpringseason.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Largeamongthree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Multiplicationtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Naturalnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Nnaturalnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Numberssum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/PosNegZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Smallestofthree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Sumofnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Voteeligibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/oddandeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Abundant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/DayofWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Harshadnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/digitsinanumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abundant.executor": "Run",
     "Application.AddTwoNumbers.executor": "Run",
     "Application.AreaofaCircle.executor": "Run",
+    "Application.Armstrong.executor": "Run",
     "Application.Bonussalary.executor": "Run",
     "Application.CelsiustoFahrenheit.executor": "Run",
     "Application.Comparesumofnaturalnumebers.executor": "Run",
@@ -59,13 +49,16 @@
     "Application.DecrementCounter.executor": "Run",
     "Application.Divisiblebyfive.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.Harshadnumber.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IsSpringseason.executor": "Run",
     "Application.Largeamongthree.executor": "Run",
+    "Application.Multiplicationtable.executor": "Run",
     "Application.Nnaturalnumbers.executor": "Run",
     "Application.Numberssum.executor": "Run",
     "Application.Smallestofthree.executor": "Run",
     "Application.Sumofnumbers.executor": "Run",
+    "Application.digitsinanumber.executor": "Run",
     "Application.numbers.executor": "Run",
     "Application.oddandeven.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
