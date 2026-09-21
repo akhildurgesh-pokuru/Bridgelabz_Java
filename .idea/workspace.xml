@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Abundant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/DayofWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/Harshadnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/digitsinanumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/FizzBuzzWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/GradesOfStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/LeapYearwithMultipleIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/javaControlFlow/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +48,16 @@
     "Application.CelsiustoFahrenheit.executor": "Run",
     "Application.Comparesumofnaturalnumebers.executor": "Run",
     "Application.Counterdecrement.executor": "Run",
+    "Application.DayofWeek.executor": "Run",
     "Application.DecrementCounter.executor": "Run",
     "Application.Divisiblebyfive.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.GradesOfStudents.executor": "Run",
     "Application.Harshadnumber.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IsSpringseason.executor": "Run",
     "Application.Largeamongthree.executor": "Run",
+    "Application.LeapYear.executor": "Run",
     "Application.Multiplicationtable.executor": "Run",
     "Application.Nnaturalnumbers.executor": "Run",
     "Application.Numberssum.executor": "Run",
