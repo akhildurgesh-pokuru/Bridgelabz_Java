@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/Copy2DTo1D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/EveOddZer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/EvenOddArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/FactorsOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/MeanHeightOfPlayers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/MultiplicationTableFrom6To9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/TerminateIfZeroIsEntered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level1/VoteEligibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/CalculateBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/DigitFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/EmployeeBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/LargestSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/LargestandSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/MultiDimensionBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/MultiDimentionalStudentGradeSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/ReverseOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/StudentGradeSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Arrays/Level2/YoungestAndTallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +48,16 @@
     "Application.AreaofaCircle.executor": "Run",
     "Application.Armstrong.executor": "Run",
     "Application.Bonussalary.executor": "Run",
+    "Application.CalculateBMI.executor": "Run",
     "Application.CelsiustoFahrenheit.executor": "Run",
     "Application.Comparesumofnaturalnumebers.executor": "Run",
     "Application.Copy2DTo1D.executor": "Run",
     "Application.Counterdecrement.executor": "Run",
     "Application.DayofWeek.executor": "Run",
     "Application.DecrementCounter.executor": "Run",
+    "Application.DigitFrequency.executor": "Run",
     "Application.Divisiblebyfive.executor": "Run",
+    "Application.EmployeeBonus.executor": "Run",
     "Application.EveOddZer.executor": "Run",
     "Application.EvenOddArrays.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -65,17 +68,23 @@
     "Application.HelloWorld.executor": "Run",
     "Application.IsSpringseason.executor": "Run",
     "Application.Largeamongthree.executor": "Run",
+    "Application.LargestandSecondLargest.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.MeanHeightOfPlayers.executor": "Run",
+    "Application.MultiDimensionBMI.executor": "Run",
+    "Application.MultiDimentionalStudentGradeSystem.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.MultiplicationTableFrom6To9.executor": "Run",
     "Application.Multiplicationtable.executor": "Run",
     "Application.Nnaturalnumbers.executor": "Run",
     "Application.Numberssum.executor": "Run",
+    "Application.ReverseOfNumber.executor": "Run",
     "Application.Smallestofthree.executor": "Run",
+    "Application.StudentGradeSystem.executor": "Run",
     "Application.Sumofnumbers.executor": "Run",
     "Application.TerminateIfZeroIsEntered.executor": "Run",
     "Application.VoteEligibility.executor": "Run",
+    "Application.YoungestAndTallest.executor": "Run",
     "Application.digitsinanumber.executor": "Run",
     "Application.numbers.executor": "Run",
     "Application.oddandeven.executor": "Run",
@@ -109,6 +118,10 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
