@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Calender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/CollinearCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Displayscorecards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Distances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/FactorNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/FootBallTeamHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/MatrixManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/NumberDigitAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/NumberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/NumberProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/OTPValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Salaryhike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/SpecialNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculateBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculateBMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculationTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculationTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FactorsSumSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FactorsSumSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FriendDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FriendDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +88,7 @@
     "Application.QuotientRemainder.executor": "Run",
     "Application.ReverseOfNumber.executor": "Run",
     "Application.RootsOfEquation.executor": "Run",
+    "Application.Salaryhike.executor": "Run",
     "Application.SimpleIntrest.executor": "Run",
     "Application.Smallestofthree.executor": "Run",
     "Application.StudentGradeSystem.executor": "Run",
