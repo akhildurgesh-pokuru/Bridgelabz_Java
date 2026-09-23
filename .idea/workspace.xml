@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/AthleteRuns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/ChocolatesDistribution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/HandShakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/NumberOfHandShakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/PosNegZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/QuotientRemainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/SimpleIntrest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/SmallestAmongThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/SpringSeason.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/SumOfnNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/Trigonometric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level1/WindChill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculateBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculationTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FactorsSumSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FriendDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/NumberAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/RootsOfEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/StudentVoteChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/SumOfNNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/UnitConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/YardFeetConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +64,7 @@
     "Application.EvenOddArrays.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FactorsOfNumber.executor": "Run",
+    "Application.FactorsSumSquare.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.GradesOfStudents.executor": "Run",
     "Application.Harshadnumber.executor": "Run",
@@ -85,12 +85,16 @@
     "Application.PosNegZero.executor": "Run",
     "Application.QuotientRemainder.executor": "Run",
     "Application.ReverseOfNumber.executor": "Run",
+    "Application.RootsOfEquation.executor": "Run",
     "Application.SimpleIntrest.executor": "Run",
     "Application.Smallestofthree.executor": "Run",
     "Application.StudentGradeSystem.executor": "Run",
+    "Application.StudentVoteChecker.executor": "Run",
+    "Application.SumOfNNaturalNumbers.executor": "Run",
     "Application.SumOfnNaturalNumbers.executor": "Run",
     "Application.Sumofnumbers.executor": "Run",
     "Application.TerminateIfZeroIsEntered.executor": "Run",
+    "Application.UnitConverter.executor": "Run",
     "Application.VoteEligibility.executor": "Run",
     "Application.WindChill.executor": "Run",
     "Application.YoungestAndTallest.executor": "Run",
