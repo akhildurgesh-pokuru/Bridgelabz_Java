@@ -3,6 +3,24 @@
 Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 07 - 23rd Sept 2026
+
+What I did:
+
+    •	Learnt Complete Theory on Methods.
+    •	Grasped Concepts of Packages like java.lang, java.util. 
+    •   Completed Level-1, Level-2, Level-3 Problems on Methods
+
+What I will do:
+
+    •   Gain more Practice on Methods.
+    •   Need to Work with more static methods.
+
+Issues Faced: None 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 Day 06 - 22th Sept 2026
 
 What I did:
