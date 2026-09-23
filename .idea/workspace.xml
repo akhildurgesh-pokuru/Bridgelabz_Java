@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculateBMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculationTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FactorsSumSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FriendDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/NumberAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/RootsOfEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/StudentVoteChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/SumOfNNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/UnitConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/YardFeetConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculateBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculateBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculationTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/CalculationTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FactorsSumSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FactorsSumSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FriendDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level2/FriendDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
