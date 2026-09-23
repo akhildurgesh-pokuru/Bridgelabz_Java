@@ -9,12 +9,12 @@ What I did:
 
     •	Practiced problems on Arrays along with theory.
     •	Learnt 1D,2D (Multi-Dimensional) arrays. 
-    • Completed Level-1, Level-2 Problems on Arrays
+    •   Completed Level-1, Level-2 Problems on Arrays
 
 What I will do:
 
-    • Practice more problems on Arrays.
-    • Push the Assignments into Git Repository and Classroom.
+    •   Practice more problems on Arrays.
+    •   Push the Assignments into Git Repository and Classroom.
 
 Issues Faced: None 
 
@@ -31,8 +31,8 @@ What I did:
 
 What I will do:
 
-    • Practice more problems on Control Flow programs.
-    • Practice more Problems on other platforms.
+    •   Practice more problems on Control Flow programs.
+    •   Practice more Problems on other platforms.
 
 Issues Faced: None 
 
@@ -49,8 +49,8 @@ What I did:
 
 What I will do:
 
-    • Practice more problems on what I have learnt.
-    • Improve the grip in java syntax like Avoid hard coding of variables and follow proper indentation.
+    •   Practice more problems on what I have learnt.
+    •   Improve the grip in java syntax like Avoid hard coding of variables and follow proper indentation.
 
 Issues Faced: None 
 
@@ -67,8 +67,8 @@ What I did:
 
 What I will do:
 
-    • Practice building classes, objects inside the editor.
-    • Learn to practice structure of java programming.
+    •   Practice building classes, objects inside the editor.
+    •   Learn to practice structure of java programming.
 
 Issues Faced: None 
 
@@ -85,8 +85,8 @@ What I did:
 
 What I will do:
 
-    • Practice more practical part by creating such Github Repo's.
-    • Start Learning Java Basics from scratch.
+    •   Practice more practical part by creating such Github Repo's.
+    •   Start Learning Java Basics from scratch.
 
 Issues Faced: pushing files from one repository to another repo. 
 
@@ -103,8 +103,8 @@ What I did:
 
 What I will do:
 
-    • Focus more on Git commands and GitHub structure.
-    • Practice the Git workflow in more depth by implementing it through hands-on tasks.
+    •   Focus more on Git commands and GitHub structure.
+    •   Practice the Git workflow in more depth by implementing it through hands-on tasks.
 
 Issues Faced: None 
 
