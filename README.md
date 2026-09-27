@@ -26,7 +26,7 @@ What I did:
 
     •	Completed Level-1 and Level-2 problems on Strings.
     •	Practiced with good structure of coding. 
-    •   Pushed Level-1 and Level-2 assignment problems to GitHub 
+    •   Pushed Level-1 and Level-2 assignment problems to GitHub. 
 
 What I will do:
 
@@ -43,8 +43,8 @@ Day 08 - 24th Sept 2026
 
 What I did:
 
-    •	Revised all the Previous topics
-    •   Practiced Previous problems where I faced difficulties while solving problem on first time
+    •	Revised all the Previous topics.
+    •   Practiced Previous problems where I faced difficulties while solving problem on first time.
 
 What I will do:
 
@@ -62,7 +62,7 @@ What I did:
 
     •	Learnt Complete Theory on Methods.
     •	Grasped Concepts of Packages like java.lang, java.util. 
-    •   Completed Level-1, Level-2, Level-3 Problems on Methods
+    •   Completed Level-1, Level-2, Level-3 Problems on Methods.
 
 What I will do:
 
@@ -80,7 +80,7 @@ What I did:
 
     •	Practiced problems on Arrays along with theory.
     •	Learnt 1D,2D (Multi-Dimensional) arrays. 
-    •   Completed Level-1, Level-2 Problems on Arrays
+    •   Completed Level-1, Level-2 Problems on Arrays.
 
 What I will do:
 
