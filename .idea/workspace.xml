@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128b58e1-819d-4cd1-9666-cdcc701bbac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Calender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/CollinearCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Displayscorecards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Distances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/FactorNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/FootBallTeamHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/MatrixManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/NumberDigitAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/NumberPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/NumberProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/OTPValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/Salaryhike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Methods/Level3/SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/CalculateBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/FirstNonRepating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/FreqOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/FreqUniq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level3/UniqueCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level1/IlliegalExeception.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz_Java/src/main/java/Strings/Level1/IlliegalExeception.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,12 +47,17 @@
   "keyToString": {
     "Application.Abundant.executor": "Run",
     "Application.AddTwoNumbers.executor": "Run",
+    "Application.Anagram.executor": "Run",
     "Application.AreaofaCircle.executor": "Run",
     "Application.Armstrong.executor": "Run",
+    "Application.ArrayOfStrings.executor": "Run",
     "Application.AthleteRuns.executor": "Run",
     "Application.Bonussalary.executor": "Run",
     "Application.CalculateBMI.executor": "Run",
     "Application.CelsiustoFahrenheit.executor": "Run",
+    "Application.ComapreStringUsingArrays.executor": "Run",
+    "Application.CompareStrings.executor": "Run",
+    "Application.CompareStringsUsingDifferentApproaches.executor": "Run",
     "Application.Comparesumofnaturalnumebers.executor": "Run",
     "Application.Copy2DTo1D.executor": "Run",
     "Application.Counterdecrement.executor": "Run",
@@ -67,23 +71,35 @@
     "Application.Factorial.executor": "Run",
     "Application.FactorsOfNumber.executor": "Run",
     "Application.FactorsSumSquare.executor": "Run",
+    "Application.FindLength.executor": "Run",
+    "Application.FirstNonRepating.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.FreqUniq.executor": "Run",
+    "Application.FrequencyOfCharacters.executor": "Run",
     "Application.GradesOfStudents.executor": "Run",
+    "Application.HandleException.executor": "Run",
     "Application.Harshadnumber.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.IlliegalExeception.executor": "Run",
+    "Application.IndexOutOfBounds.executor": "Run",
     "Application.IsSpringseason.executor": "Run",
     "Application.Largeamongthree.executor": "Run",
     "Application.LargestandSecondLargest.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.LowerCase.executor": "Run",
     "Application.MeanHeightOfPlayers.executor": "Run",
+    "Application.MinandMaxLength.executor": "Run",
+    "Application.MultiDimArrayWords.executor": "Run",
     "Application.MultiDimensionBMI.executor": "Run",
     "Application.MultiDimentionalStudentGradeSystem.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.MultiplicationTableFrom6To9.executor": "Run",
     "Application.Multiplicationtable.executor": "Run",
     "Application.Nnaturalnumbers.executor": "Run",
+    "Application.NumberException.executor": "Run",
     "Application.NumberOfHandShakes.executor": "Run",
     "Application.Numberssum.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.PosNegZero.executor": "Run",
     "Application.QuotientRemainder.executor": "Run",
     "Application.ReverseOfNumber.executor": "Run",
@@ -91,14 +107,21 @@
     "Application.Salaryhike.executor": "Run",
     "Application.SimpleIntrest.executor": "Run",
     "Application.Smallestofthree.executor": "Run",
+    "Application.SplitTextLength.executor": "Run",
     "Application.StudentGradeSystem.executor": "Run",
+    "Application.StudentGrades.executor": "Run",
     "Application.StudentVoteChecker.executor": "Run",
     "Application.SumOfNNaturalNumbers.executor": "Run",
     "Application.SumOfnNaturalNumbers.executor": "Run",
     "Application.Sumofnumbers.executor": "Run",
     "Application.TerminateIfZeroIsEntered.executor": "Run",
+    "Application.Trim_and_Compare.executor": "Run",
+    "Application.TwoDimensionVowelConsonent.executor": "Run",
+    "Application.UniqueCharacters.executor": "Run",
     "Application.UnitConverter.executor": "Run",
+    "Application.UpperCase.executor": "Run",
     "Application.VoteEligibility.executor": "Run",
+    "Application.Vowel_Consonents.executor": "Run",
     "Application.WindChill.executor": "Run",
     "Application.YoungestAndTallest.executor": "Run",
     "Application.digitsinanumber.executor": "Run",
@@ -112,7 +135,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15429688",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -137,6 +160,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="3" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

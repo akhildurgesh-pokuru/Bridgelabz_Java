@@ -14,6 +14,8 @@ class illiegal{
 
 
 
+
+
 class handleilliegal{
     public void handle(String s1){   //method to handle illiegal exception
         try{
