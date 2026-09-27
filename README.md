@@ -3,6 +3,59 @@
 Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 10 - 26th Sept 2026
+
+What I did:
+
+    •	Completed Level-3 Problems on Strings.
+    •   Pushed all Code Files on Strings to Github.
+
+What I will do:
+
+    •   Looking to solve more problems on Strings.
+    •   To think what type of apply data structures in different scenarios.
+
+Issues Faced: None 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 09 - 25th Sept 2026
+
+What I did:
+
+    •	Completed Level-1 and Level-2 problems on Strings.
+    •	Practiced with good structure of coding. 
+    •   Pushed Level-1 and Level-2 assignment problems to GitHub 
+
+What I will do:
+
+    •   Complete the Level-3 problems on Strings.
+    •   Solve more problems on Strings.
+
+Issues Faced: None 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 08 - 24th Sept 2026
+
+What I did:
+
+    •	Revised all the Previous topics
+    •   Practiced Previous problems where I faced difficulties while solving problem on first time
+
+What I will do:
+
+    •   Practice more problems on different platforms.
+    •   Looking to solve small real scenario problems.
+
+Issues Faced: None 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 Day 07 - 23rd Sept 2026
 
 What I did:
@@ -16,7 +69,7 @@ What I will do:
     •   Gain more Practice on Methods.
     •   Need to Work with more static methods.
 
-Issues Faced: None 
+Issues Faced: Confusion between static and non static methods 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -34,7 +87,7 @@ What I will do:
     •   Practice more problems on Arrays.
     •   Push the Assignments into Git Repository and Classroom.
 
-Issues Faced: None 
+Issues Faced: Index Out of bounds errors, Fixed size allocation. 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +105,7 @@ What I will do:
     •   Practice more problems on Control Flow programs.
     •   Practice more Problems on other platforms.
 
-Issues Faced: None 
+Issues Faced: Placing conditions in loops 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
