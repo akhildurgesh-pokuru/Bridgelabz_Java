@@ -14,6 +14,8 @@ class anagram_check{
         int arr2count = 0;
 
         for(int i=0;i<s1.length();i++){
+            arr1count = 0;
+            arr2count=0;
 
             char ch = arr1[i];
 
