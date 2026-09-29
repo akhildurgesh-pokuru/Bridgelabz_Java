@@ -3,6 +3,24 @@
 Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 11 - 28th Sept 2026
+
+What I did:
+
+    •	Completed Extra problems given on Strings.
+    •   Pushed all Code Files on Strings to Github.
+
+What I will do:
+
+    •   Move my journey to Object Oriented world.
+    •   Complete the problems which were assigned on OOPS.
+    
+Issues Faced: None 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 10 - 26th Sept 2026
 
 What I did:
