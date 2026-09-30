@@ -1,16 +1,30 @@
+/*
+ * Project: ATM Simulation
+ *
+ * This program simulates basic ATM operations such as
+ * depositing money, withdrawing money, and checking balance.
+ */
+
+package ObjectOrientedFundamental.Level_2;
+
 import java.util.Scanner;
 
-public class ATM_Simulate{
+public class ATM_Simulate {
     public static final Scanner sc = new Scanner(System.in);
+
     public static void main(String[] args) {
-        
+
+        // Get account details from the user
         System.out.println("Enter the Account Holder");
         String name = sc.next();
+
         System.out.println("Enter the Account number");
         int acc_num = sc.nextInt();
+
         System.out.println("Enter the balance");
         double balance = sc.nextDouble();
 
+        // Create a bank account and set its details
         bank_account obj = new bank_account();
         obj.setAccount_holder(name);
         obj.setAccount_number(acc_num);
@@ -18,41 +32,43 @@ public class ATM_Simulate{
 
         boolean result = true;
 
-        while(result){
-        System.out.println("1. Deposit");
-        System.out.println("2. withdraw");
-        System.out.println("3. Check balance");
-        System.out.println("Enter the operation you need to perform");
-        int choice = sc.nextInt();
+        // Continue ATM operations until the user chooses to stop
+        while(result) {
+            System.out.println("1. Deposit");
+            System.out.println("2. withdraw");
+            System.out.println("3. Check balance");
+            System.out.println("Enter the operation you need to perform");
+            int choice = sc.nextInt();
 
-        switch(choice){
+            switch(choice) {
 
-            case 1 : obj.deposit();
-                      break;
+                case 1 : obj.deposit();
+                    break;
 
-            case 2 : obj.withdraw();
-                     break;
+                case 2 : obj.withdraw();
+                    break;
 
-            case 3 : obj.checkbalance();
-                     break;
+                case 3 : obj.checkbalance();
+                    break;
 
-            default: System.out.println("Enter the valid choice");
-                     break;
+                default: System.out.println("Enter the valid choice");
+                    break;
+            }
 
-        }
+            // Ask the user whether another operation is required
+            System.out.println("Do you need to perform another operation (0,1)");
+            int a = sc.nextInt();
 
-        System.out.println("Do you need to perform another operation (0,1)");
-        int a = sc.nextInt();
-        if(a==1){
-            result = true;
-        }else{
-            result = false;
-        }
+            if(a == 1) {
+                result = true;
+            } else {
+                result = false;
+            }
         }
     }
 }
 
-class bank_account{
+class bank_account {
 
     String account_holder;
     int account_number;
@@ -60,38 +76,44 @@ class bank_account{
 
     public static final Scanner sc = new Scanner(System.in);
 
-    public void setAccount_holder(String account_holder){
+    // Set the account holder name
+    public void setAccount_holder(String account_holder) {
         this.account_holder = account_holder;
     }
 
-    public void setAccount_number(int account_number){
+    // Set the account number
+    public void setAccount_number(int account_number) {
         this.account_number = account_number;
     }
 
-    public void setBalance(double balance){
+    // Set the initial account balance
+    public void setBalance(double balance) {
         this.balance = balance;
     }
 
-    public void deposit(){
+    // Add the entered amount to the account balance
+    public void deposit() {
         System.out.println("Enter the amount to deposit");
         balance = balance + sc.nextDouble();
-        System.out.println("Total balance"+balance);
+        System.out.println("Total balance" + balance);
     }
 
-    public void withdraw(){
+    // Withdraw money if sufficient balance is available
+    public void withdraw() {
         System.out.println("Enter the amount to withdraw");
         int amount = sc.nextInt();
-        if(balance<amount){
+
+        if(balance < amount) {
             System.out.println("Insufficient balance");
-        }else{
-            balance = balance-amount;
-            System.out.println("You withdrawn: "+amount);
-            System.out.println("You current balance: "+balance);
+        } else {
+            balance = balance - amount;
+            System.out.println("You withdrawn: " + amount);
+            System.out.println("You current balance: " + balance);
         }
     }
 
-    public void checkbalance(){
-        System.out.println("Balance: "+balance);
+    // Display the current account balance
+    public void checkbalance() {
+        System.out.println("Balance: " + balance);
     }
-
 }
