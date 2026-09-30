@@ -1,4 +1,4 @@
-package ObjectOrientedFundamental;
+package ObjectOrientedFundamental.Level_1;
 
 import java.util.Scanner;
 
