@@ -3,6 +3,43 @@
 Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 13 - 30th Sept 2026
+
+What I did:
+
+    •	Completed Level-2 problems on classes and objects.
+    •   Completed All Levels of Problems on constructors.
+    •.  Pushed all the code files on to Github
+
+What I will do:
+
+    •   Make a move to Static, this and final keywords.
+    •   Complete the problems assigned in static concepts.
+    
+Issues Faced: Confusion between parent and sub class. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 12 - 29th Sept 2026
+
+What I did:
+
+    •	Completed Theoretical concepts on classes and objects.
+    •   Completed Level-1 problems on classes and objects.
+
+What I will do:
+
+    •   Complete the Level-2 concepts on Classes and objects.
+    •   Strengthen theoretical concepts on oops.
+    
+Issues Faced: None 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 11 - 28th Sept 2026
 
 What I did:
