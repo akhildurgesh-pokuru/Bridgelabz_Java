@@ -4,6 +4,24 @@ Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Day 17 - 5th October 2026
+
+What I did:
+
+    •	Completed Learning concepts on Pillars of OOPS.
+    •   Completed and Pushed Assisted Problems on OOPS.
+
+What I will do:
+
+    •   Practice more problems on pillars of OOPS.
+    •   Make a move to Learning Data Structures.
+    
+    
+Issues Faced: Confusion on where to implement the functionality. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 Day 16 - 3rd October 2026
 
 What I did:
