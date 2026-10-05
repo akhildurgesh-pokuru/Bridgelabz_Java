@@ -3,6 +3,62 @@
 Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
+
+Day 16 - 3rd October 2026
+
+What I did:
+
+    •	Learnt Theory on inheritance.
+    •   Completed assigned problems on inheritance.
+
+What I will do:
+
+    •   Learn the concepts on pillars of OOPS.
+    •   Complete assigned problems on Abstraction, Encapsulation.
+    
+Issues Faced: Confusion on Abstraction and Interface. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 15 - 2nd October 2026
+
+What I did:
+
+    •	Completed assisted problems on aggregation, association and composition.
+    •   Learnt the UML Diagrams of class and sequence.
+    •   Pushed all the code files on to Github
+
+What I will do:
+
+    •   Practice problems on inheritance.
+    •   Learn the theory concepts on inheritance.
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 14 - 1st Oct 2026
+
+What I did:
+
+    •	Completed problems on static, this and final keywords.
+    •   Learnt the theory concepts on aggregation, association and composition.
+
+What I will do:
+
+    •   Complete the assigned problems on relation between classes.
+    •   Practice problems on UML Diagrams.
+    
+Issues Faced: Where and when to use final, static keywords. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 13 - 30th Sept 2026
 
 What I did:
@@ -16,7 +72,7 @@ What I will do:
     •   Make a move to Static, this and final keywords.
     •   Complete the problems assigned in static concepts.
     
-Issues Faced: Confusion between parent and sub class. 
+Issues Faced: None. 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
