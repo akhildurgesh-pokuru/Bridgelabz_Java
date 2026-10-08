@@ -4,6 +4,44 @@ Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Day 19 - 7th October 2026
+
+What I did:
+
+    •	Completed Linked List theoretically.
+    •   Completed all the tasks on LinkedList.
+
+What I will do:
+
+    •   Work on stacks and queues.
+    •   Work on hashing and hash maps.
+    
+    
+Issues Faced: Confusion on implementing logic for double linkedlist. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 18 - 6th October 2026
+
+What I did:
+
+    •	Learnt the Concept on why data structures are useful.
+    •   Learnt what are the types of datatypes, linear and non linear.
+
+What I will do:
+
+    •   Work on the problems of LinkedList.
+    •   Solving All levels on LinkedList.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 17 - 5th October 2026
 
 What I did:
@@ -21,6 +59,7 @@ Issues Faced: Confusion on where to implement the functionality.
 
 
 ------------------------------------------------------------------------------------------------------------------------------
+
 
 Day 16 - 3rd October 2026
 
