@@ -3,7 +3,7 @@
  * Operations: Add, remove, search, display movies and update movie ratings.
  */
 
-package LinkedList;
+package LinkedList.Level1;
 
 class Movie {
     String movie_title;
