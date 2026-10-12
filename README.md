@@ -4,6 +4,63 @@ Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Day 22 - 10th October 2026
+
+What I did:
+
+    •	Learnt the theory concepts on linear and binary search operations.
+    •   Completed string builder, string buffer concepts.
+
+What I will do:
+
+    •   Complete the assigned tasks on linear and binary search.
+    •   Work on time complexity and space complexity.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 21 - 9th October 2026
+
+What I did:
+
+    •	learnt the theory on sorting algorithms.
+    •   implemented various sorting algorithms.
+
+What I will do:
+
+    •   solve more problems on quick and merge sort.
+    •   To learn the searching algorithms.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 20 - 8th October 2026
+
+What I did:
+
+    •	Learnt the theory on stacks and queues.
+    •   Completed assigned problems on stacks and queues.
+
+What I will do:
+
+    •   work on more problems on stack and queues.
+    •   learn the sorting techniques.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 19 - 7th October 2026
 
 What I did:
