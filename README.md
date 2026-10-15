@@ -8,7 +8,7 @@ Day 26 - 15th October 2026
 
 What I did:
 
-    •	Learnt Concepts on Lambda Expressions and Streams API's.
+    •Learnt Concepts on Lambda Expressions and Streams API's.
     •   Completed Tasks on Lambda Expressions.
 
 What I will do:
