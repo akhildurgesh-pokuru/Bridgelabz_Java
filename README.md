@@ -4,6 +4,82 @@ Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Day 26 - 15th October 2026
+
+What I did:
+
+    •	Learnt Concepts on Lambda Expressions and Streams API's.
+    •   Completed Tasks on Lambda Expressions.
+
+What I will do:
+
+    •   Complete the assigned tasks on Stream Api's.
+    •   Work on Stream API's taks.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 25 - 14th October 2026
+
+What I did:
+
+    •	Completed Assigned tasks on Collections.
+    •   Learnt Concepts on Generics.
+
+What I will do:
+
+    •   Complete the assigned tasks on Generics.
+    •   Practice more problems on collections.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 24 - 13th October 2026
+
+What I did:
+
+    •	Completed problems on Time and Space Complexities.
+    •   Learnt about Collections and hierarchy.
+
+What I will do:
+
+    •   Complete the assigned tasks Collections.
+    •   Work on different types of Collections.
+    
+    
+Issues Faced: Confusion on inner for loops complexities. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 23 - 12th October 2026
+
+What I did:
+
+    •	Learnt Runtime Analysis.
+    •   Learnt Time Complexities and space Complexities.
+
+What I will do:
+
+    •   Working on finding complexity for different programs.
+    •   Learn how to write programs in less complexity.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 22 - 10th October 2026
 
 What I did:
