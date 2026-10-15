@@ -27,7 +27,7 @@ Day 25 - 14th October 2026
 
 What I did:
 
-    •	Completed Assigned tasks on Collections.
+    •   Completed Assigned tasks on Collections.
     •   Learnt Concepts on Generics.
 
 What I will do:
@@ -46,7 +46,7 @@ Day 24 - 13th October 2026
 
 What I did:
 
-    •	Completed problems on Time and Space Complexities.
+    •   Completed problems on Time and Space Complexities.
     •   Learnt about Collections and hierarchy.
 
 What I will do:
@@ -65,7 +65,7 @@ Day 23 - 12th October 2026
 
 What I did:
 
-    •	Learnt Runtime Analysis.
+    •   Learnt Runtime Analysis.
     •   Learnt Time Complexities and space Complexities.
 
 What I will do:
@@ -84,7 +84,7 @@ Day 22 - 10th October 2026
 
 What I did:
 
-    •	Learnt the theory concepts on linear and binary search operations.
+    •  Learnt the theory concepts on linear and binary search operations.
     •   Completed string builder, string buffer concepts.
 
 What I will do:
@@ -103,7 +103,7 @@ Day 21 - 9th October 2026
 
 What I did:
 
-    •	learnt the theory on sorting algorithms.
+    •   learnt the theory on sorting algorithms.
     •   implemented various sorting algorithms.
 
 What I will do:
@@ -122,7 +122,7 @@ Day 20 - 8th October 2026
 
 What I did:
 
-    •	Learnt the theory on stacks and queues.
+    •   Learnt the theory on stacks and queues.
     •   Completed assigned problems on stacks and queues.
 
 What I will do:
@@ -141,7 +141,7 @@ Day 19 - 7th October 2026
 
 What I did:
 
-    •	Completed Linked List theoretically.
+    •   Completed Linked List theoretically.
     •   Completed all the tasks on LinkedList.
 
 What I will do:
@@ -160,7 +160,7 @@ Day 18 - 6th October 2026
 
 What I did:
 
-    •	Learnt the Concept on why data structures are useful.
+    •   Learnt the Concept on why data structures are useful.
     •   Learnt what are the types of datatypes, linear and non linear.
 
 What I will do:
@@ -179,7 +179,7 @@ Day 17 - 5th October 2026
 
 What I did:
 
-    •	Completed Learning concepts on Pillars of OOPS.
+    •   Completed Learning concepts on Pillars of OOPS.
     •   Completed and Pushed Assisted Problems on OOPS.
 
 What I will do:
@@ -198,7 +198,7 @@ Day 16 - 3rd October 2026
 
 What I did:
 
-    •	Learnt Theory on inheritance.
+    •   Learnt Theory on inheritance.
     •   Completed assigned problems on inheritance.
 
 What I will do:
@@ -216,7 +216,7 @@ Day 15 - 2nd October 2026
 
 What I did:
 
-    •	Completed assisted problems on aggregation, association and composition.
+    •   Completed assisted problems on aggregation, association and composition.
     •   Learnt the UML Diagrams of class and sequence.
     •   Pushed all the code files on to Github
 
@@ -235,7 +235,7 @@ Day 14 - 1st Oct 2026
 
 What I did:
 
-    •	Completed problems on static, this and final keywords.
+    •   Completed problems on static, this and final keywords.
     •   Learnt the theory concepts on aggregation, association and composition.
 
 What I will do:
@@ -253,9 +253,9 @@ Day 13 - 30th Sept 2026
 
 What I did:
 
-    •	Completed Level-2 problems on classes and objects.
+    •   Completed Level-2 problems on classes and objects.
     •   Completed All Levels of Problems on constructors.
-    •.  Pushed all the code files on to Github
+    •   Pushed all the code files on to Github
 
 What I will do:
 
@@ -272,7 +272,7 @@ Day 12 - 29th Sept 2026
 
 What I did:
 
-    •	Completed Theoretical concepts on classes and objects.
+    •   Completed Theoretical concepts on classes and objects.
     •   Completed Level-1 problems on classes and objects.
 
 What I will do:
@@ -290,7 +290,7 @@ Day 11 - 28th Sept 2026
 
 What I did:
 
-    •	Completed Extra problems given on Strings.
+    •   Completed Extra problems given on Strings.
     •   Pushed all Code Files on Strings to Github.
 
 What I will do:
@@ -308,7 +308,7 @@ Day 10 - 26th Sept 2026
 
 What I did:
 
-    •	Completed Level-3 Problems on Strings.
+    •   Completed Level-3 Problems on Strings.
     •   Pushed all Code Files on Strings to Github.
 
 What I will do:
@@ -325,7 +325,7 @@ Day 09 - 25th Sept 2026
 
 What I did:
 
-    •	Completed Level-1 and Level-2 problems on Strings.
+    •   Completed Level-1 and Level-2 problems on Strings.
     •	Practiced with good structure of coding. 
     •   Pushed Level-1 and Level-2 assignment problems to GitHub. 
 
@@ -344,7 +344,7 @@ Day 08 - 24th Sept 2026
 
 What I did:
 
-    •	Revised all the Previous topics.
+    •   Revised all the Previous topics.
     •   Practiced Previous problems where I faced difficulties while solving problem on first time.
 
 What I will do:
@@ -361,7 +361,7 @@ Day 07 - 23rd Sept 2026
 
 What I did:
 
-    •	Learnt Complete Theory on Methods.
+    •   Learnt Complete Theory on Methods.
     •	Grasped Concepts of Packages like java.lang, java.util. 
     •   Completed Level-1, Level-2, Level-3 Problems on Methods.
 
@@ -379,7 +379,7 @@ Day 06 - 22th Sept 2026
 
 What I did:
 
-    •	Practiced problems on Arrays along with theory.
+    •   Practiced problems on Arrays along with theory.
     •	Learnt 1D,2D (Multi-Dimensional) arrays. 
     •   Completed Level-1, Level-2 Problems on Arrays.
 
@@ -398,7 +398,7 @@ Day 05 - 21th Sept 2026
 
 What I did:
 
-    •	Learnt Control Flow programs, logical expressions, Conditional statements.
+    •   Learnt Control Flow programs, logical expressions, Conditional statements.
     •	Learnt Loops, practiced different types of loops.  
 
 What I will do:
@@ -416,7 +416,7 @@ Day 04 - 19th Sept 2026
 
 What I did:
 
-    •	Learnt Java Syntactically and practiced some java programs.
+    •   Learnt Java Syntactically and practiced some java programs.
     •	Learnt Datatypes, Operators, Type Conversions.  
 
 What I will do:
@@ -434,7 +434,7 @@ Day 03 - 18th Sept 2026
 
 What I did:
 
-    •	Learnt JDK, JRE, JVM in detail.
+    •   Learnt JDK, JRE, JVM in detail.
     •	Features of java like OOPS.  
 
 What I will do:
@@ -452,7 +452,7 @@ Day 02 - 17th Sept 2026
 
 What I did:
 
-    •	Worked on Performing Git Commands implementing Practically.
+    •   Worked on Performing Git Commands implementing Practically.
     •	Performed adding, Committing, Pushing, Merging from local repository to Github repo.
 
 What I will do:
@@ -470,7 +470,7 @@ Day 01 - 16th Sept 2026
 
 What I did:
 
-    •	Gone through the basic Git commands to add, commit and push the changes to GitHub.
+    •   Gone through the basic Git commands to add, commit and push the changes to GitHub.
     •	Worked on GitHub practically by creating repositories and pushing codes with Git commands.
 
 What I will do:
