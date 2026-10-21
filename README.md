@@ -4,6 +4,63 @@ Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Day 29 - 19th October 2026
+
+What I did:
+
+    •   Solved Problems on Exceptions, Custom Exceptions.
+    •   Learnt concepts on Junit.
+
+What I will do:
+
+    •   Solve Problems on Junit testing.
+    •   Work on more problems on Exceptions.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 28 - 17th October 2026
+
+What I did:
+
+    •   Solved Problems on Regular Expressions.
+    •   Learnt theory concepts on Exceptions.
+
+What I will do:
+
+    •   Practice problems on Exceptions.
+    •   Solve more problem on Regex.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 27 - 16th October 2026
+
+What I did:
+
+    •   Solved Problems on depth on Stream API's.
+    •   Learnt About Regular Expressions.
+
+What I will do:
+
+    •   Solve more problems on Stream Api's.
+    •   Practice Problems on Regular Expressions.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 Day 26 - 15th October 2026
 
 What I did:
