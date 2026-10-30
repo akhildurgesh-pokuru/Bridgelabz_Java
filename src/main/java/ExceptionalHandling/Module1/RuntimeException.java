@@ -4,7 +4,7 @@
  * It handles division-by-zero errors and invalid input using separate catch blocks.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

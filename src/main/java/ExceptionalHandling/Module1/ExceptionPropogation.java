@@ -4,7 +4,7 @@
  * An arithmetic exception travels from method1() through method2() to the main method, where it is handled.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 public class ExceptionPropogation {
     public static void main(String[] args) {

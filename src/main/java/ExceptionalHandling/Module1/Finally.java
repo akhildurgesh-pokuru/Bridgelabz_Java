@@ -4,7 +4,7 @@
  * It shows that the finally block executes whether an exception occurs or is handled.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 public class Finally {
     public static void main(String[] args) {

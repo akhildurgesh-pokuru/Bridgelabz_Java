@@ -4,10 +4,9 @@
  * It reads and prints the contents of data.txt and handles file-related errors.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 import java.io.*;
-import java.nio.file.Files;
 
 public class CompileTimeException {
     public static void main(String[] args) throws IOException {

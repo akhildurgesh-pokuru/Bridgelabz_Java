@@ -4,7 +4,7 @@
  * It handles arithmetic errors in the inner block and array index errors in the outer block.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 import java.util.Scanner;
 

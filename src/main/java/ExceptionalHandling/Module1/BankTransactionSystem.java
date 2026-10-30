@@ -4,7 +4,7 @@
  * It demonstrates custom exception handling when a withdrawal amount exceeds the available balance.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 import java.util.Scanner;
 

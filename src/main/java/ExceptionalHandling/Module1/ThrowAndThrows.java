@@ -4,7 +4,7 @@
  * It validates the amount and interest rate and raises an exception if either is negative.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 class calculation {
 

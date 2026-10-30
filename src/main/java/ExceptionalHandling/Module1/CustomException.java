@@ -4,7 +4,7 @@
  * It checks whether a person's age is at least 18 and throws an exception if it is not.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 class exception extends Exception {
 

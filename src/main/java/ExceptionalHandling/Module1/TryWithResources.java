@@ -4,7 +4,7 @@
  * It uses try-with-resources to automatically close file readers and writers.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 import java.io.*;
 import java.lang.RuntimeException;

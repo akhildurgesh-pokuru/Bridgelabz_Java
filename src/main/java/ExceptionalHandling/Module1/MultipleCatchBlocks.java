@@ -4,7 +4,7 @@
  * It shows how a NullPointerException is caught when accessing an array that is null.
  */
 
-package ExceptionalHandling;
+package ExceptionalHandling.Module1;
 
 import java.util.Scanner;
 
