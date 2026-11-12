@@ -3,6 +3,329 @@
 Daily Task Updates
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 43 - 11th November 2026
+
+What I did:
+
+    •   Completed Logging and Monitoring.
+    •   Learnt OSWAP Top 10 Security risks.
+    
+What I will do:
+
+    •   Learn Input Validation.
+    •   Learn Spring data JPA and Hibernate.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 42 - 7th November 2026
+
+What I did:
+
+    •   Learnt global Exception.
+    •   Solve Concepts on global Exceptions.
+    
+What I will do:
+
+    •   Learn Applying of Logging and Monitoring.
+    •   Complete Exceptions and AOP.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 45 - 6th November 2026
+
+What I did:
+
+    •   Learnt Advance Spring Boot.
+    •   Have a grip on spring Security.
+    
+What I will do:
+
+    •   Complete Security Topic.
+    •   Complete Spring AOP.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 44 - 5th November 2026
+
+What I did:
+
+    •   Learnt Concepts on Spring Security.
+    •   Understood the Spring security filters workflow.
+    
+What I will do:
+
+    •   Study AOP Framework.
+    •   Work Spring Security Projects.
+    
+    
+Issues Faced: Spring Security. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 43 - 4rth November 2026
+
+What I did:
+
+    •   Learnt Spring Security Basic Authentication.
+    •   Work on Spring AOP.
+    
+What I will do:
+
+    •   Complete the Spring Security.
+    •   Learn other concepts on advance spring boot.
+    
+    
+Issues Faced: JWT. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 42 - 3rd November 2026
+
+What I did:
+
+    •   Learnt Basics of Spring Security.
+    •   Understood Spring Security Architecture.
+    
+What I will do:
+
+    •   Complete Security Topic.
+    •   Learn Basic Authentication and JWT.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 41 - 2nd November 2026
+
+What I did:
+
+    •   Learnt Over all things Connecting Structure.
+    •   Learnt Spring Data JPA and parent Layers.
+
+What I will do:
+
+    •   Work on Spring Framework and compare with spring boot.
+    •   Learn Spring Security.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 40 - 31st October 2026
+
+What I did:
+
+    •   Worked on Rest Api's and Spring MVC.
+    •   Learnt Spring Data JPA and H2 Database.
+
+What I will do:
+
+    •   Learn how the Over all things connecting.
+    •   Practice and revise some sql queries.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 39 - 30th October 2026
+
+What I did:
+
+    •   Completed the Spring Framework.
+    •   Started Learning Spring Boot.
+
+What I will do:
+
+    •   Start on Spring MVC.
+    •   Work with Rest API's.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 38 - 29th October 2026
+
+What I did:
+
+    •   Completed SQL Topics.
+    •   Started Learning Spring Framework.
+
+What I will do:
+
+    •   Complete Spring Framework.
+    •   Start with Spring Boot.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 37 - 28th October 2026
+
+What I did:
+
+    •   Worked On SQl.
+    •   Practised advanced Problems on SQL.
+
+What I will do:
+
+    •   Complete DBMS and SQl.
+    •   Start with Spring Framework.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 36 - 27th October 2026
+
+What I did:
+
+    •   Learnt Basic SQL Queries.
+    •   Learnt Concepts on DBMS.
+
+What I will do:
+
+    •   Complete the related works on SQL.
+    •   Revise the Concepts on DBMS.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 35 - 26th October 2026
+
+What I did:
+
+    •   Learnt Client Server Architecture completely.
+    •   Setted Up SQL workbench.
+
+What I will do:
+
+    •   Learn Basic Sql Commands.
+    •   Practice SQL Commands and Complete the Pending works on DBMS.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 34 - 24th October 2026
+
+What I did:
+
+    •   Completed a Part of Design Patterns.
+    •   Learnt a part of Client Server Architecture.
+
+What I will do:
+
+    •   Complete the Remaining Design Patterns.
+    •   Complete Client Server Architecture Concepts.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 33 - 23rd October 2026
+
+What I did:
+
+    •   Worked on Multithreading Concepts.
+    •   Solved Problems on single thread environment
+
+What I will do:
+
+    •   work on design Patterns.
+    •   Revise design Principles.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 32 - 22th October 2026
+
+What I did:
+
+    •   Learnt about IOstreams and annotations.
+
+What I will do:
+
+    •   Learn design principles and patterns.
+    •   solve problems on file IO.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 31 - 21th October 2026
+
+What I did:
+
+    •   Worked on File IO.
+    •   Practised Problems on Annotations.
+
+What I will do:
+
+    •   Perform Coding Tasks on File IO
+    •   Complete Pending works on Annotations.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Day 30 - 20th October 2026
+
+What I did:
+
+    •   Solved problems in JUnit.
+    •   Worked problems on Exceptions, Custom Exceptions.
+
+What I will do:
+
+    •   Work on FileIO and Annotations.
+    •   Solve problems on FileIO.
+    
+    
+Issues Faced: None. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
 Day 29 - 19th October 2026
 
